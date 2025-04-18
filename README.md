@@ -99,6 +99,7 @@ Aqua explored a sunken temple! :coral: :world_map: Quest complete! Happiness up,
 Aqua needs more energy (3+) or happiness (3+) for a quest! :disappointed:
 ```
 💡 Note: Quest outcomes may vary due to random happiness boosts (1–3).
+
 ---
 ##🌟 Creative Enhancements
 Elemental Flavors: Fire pets eat Ember Berries, Earth pets dig through crystal caves, and more!
@@ -110,6 +111,7 @@ Quests: Track completions for progress and storytelling.
 Emojis: GitHub-compatible for fun and clarity.
 
 Error Handling: Clean feedback on invalid actions and stat thresholds.
+
 ---
 
 ##🚀 Potential Future Features
@@ -120,6 +122,7 @@ Error Handling: Clean feedback on invalid actions and stat thresholds.
 🖼️ GUI Integration: Build a Tkinter interface.
 
 🤝 Group Quests: Pets can team up for cooperative missions.
+
 ---
 
 ##📦 Submission Details
@@ -128,6 +131,7 @@ pet.py - Pet class with all logic.
 main.py - Demonstrates features and edge cases.
 
 README.md - This file.
+
 ---
 
 🙌 Acknowledgments
