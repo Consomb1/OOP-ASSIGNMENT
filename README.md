@@ -50,9 +50,6 @@ Plus, a **mood system** and **emoji-enhanced outputs** make interactions engagin
 2. Navigate to the Project Folder  
 3. Run the Main Script  
 
-```bash
-python main.py
-```
 
 ### 🧪 Example Usage
 
