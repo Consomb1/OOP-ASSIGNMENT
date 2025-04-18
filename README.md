@@ -39,11 +39,6 @@ Plus, a **mood system** and **emoji-enhanced outputs** make interactions engagin
 
 ## ⚙️ Setup & Running
 
-### ✅ Requirements
-
-- Python 3.x  
-- Uses only the standard library (`random` module)
-
 ### 🚀 How to Run
 
  **Clone or Download the Repository**
@@ -53,13 +48,10 @@ Navigate to the Project Folder
 
 Run the Main Script
 
-bash
-Copy
-Edit
 python main.py
 🧪 Example Usage
 In main.py:
-
+```python
 from pet import Pet
 
 # Create pets
@@ -79,7 +71,9 @@ mermaid.eat()
 mermaid.go_on_quest()
 mermaid.energy = 1
 mermaid.go_on_quest()  # Should fail due to low energy
+```
 🖥️ Sample Output
+```
 === Creating Magical Pets ===
 :sparkles: A magical Fire creature named Flare has joined you! :sparkles:
 :sparkles: A magical Water creature named Aqua has joined you! :sparkles:
@@ -103,6 +97,7 @@ Aqua splashes in enchanted puddles! :droplet: :tada: Happiness up, energy down!
 Aqua munches on :droplet: Crystal Kelp! :bone: Hunger down, happiness up!
 Aqua explored a sunken temple! :coral: :world_map: Quest complete! Happiness up, energy down!
 Aqua needs more energy (3+) or happiness (3+) for a quest! :disappointed:
+```
 💡 Note: Quest outcomes may vary due to random happiness boosts (1–3).
 
 🌟 Creative Enhancements
