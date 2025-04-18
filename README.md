@@ -72,7 +72,7 @@ mermaid.go_on_quest()
 mermaid.energy = 1
 mermaid.go_on_quest()  # Should fail due to low energy
 ```
-🖥️ Sample Output
+##🖥️ Sample Output
 ```
 === Creating Magical Pets ===
 :sparkles: A magical Fire creature named Flare has joined you! :sparkles:
@@ -100,7 +100,7 @@ Aqua needs more energy (3+) or happiness (3+) for a quest! :disappointed:
 ```
 💡 Note: Quest outcomes may vary due to random happiness boosts (1–3).
 
-🌟 Creative Enhancements
+##🌟 Creative Enhancements
 Elemental Flavors: Fire pets eat Ember Berries, Earth pets dig through crystal caves, and more!
 
 Moods: Adds personality based on combined stats.
@@ -111,7 +111,7 @@ Emojis: GitHub-compatible for fun and clarity.
 
 Error Handling: Clean feedback on invalid actions and stat thresholds.
 
-🚀 Potential Future Features
+##🚀 Potential Future Features
 ⚔️ Pet Battles: Pets duel with learned tricks.
 
 📈 Leveling System: Gain levels based on quests or training.
@@ -120,7 +120,7 @@ Error Handling: Clean feedback on invalid actions and stat thresholds.
 
 🤝 Group Quests: Pets can team up for cooperative missions.
 
-📦 Submission Details
+##📦 Submission Details
 pet.py - Pet class with all logic.
 
 main.py - Demonstrates features and edge cases.
